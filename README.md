@@ -1,4 +1,4 @@
-# Sistema de Agendamento de Remapeamento de Veículos 🚗
+# Sistema de Agendamento de Remapeamento de Veículos 
 
 Projeto desenvolvido em Java durante a disciplina de **Programação Orientada a Objetos** com foco na simulação da interação entre usuário e sistema.
 
